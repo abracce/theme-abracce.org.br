@@ -20,14 +20,14 @@ define( 'DISALLOW_FILE_EDIT', true );
 
 // Definicoes do desenvolvedor do site
 $dev_copy['name']  = 'Fernando Moreira';
-$dev_copy['email'] = 'fernando@agenciatrend.com.br';
+$dev_copy['email'] = 'nandomoreira.me@gmail.com';
 $dev_copy['fone']  = '(41) 3151-3318 / (41) 8440-1163';
 $dev_copy['url']   = 'http://nandomoreira.me/';
 $dev_copy['admin_footer'] = ' - Developed by <a href="'.$dev_copy['url'].'" target="_blank">'.$dev_copy['name'].'</a></span>';
 
 // Definições de suporte
-$support['email'] = 'suporte@agenciatrend.com.br ';
-$support['link']  = 'http://www.agenciatrend.com.br/contato/';
+$support['email'] = 'nandomoreira.me@gmail.com';
+$support['link']  = 'http://nandomoreira.me/';
 
 // Application path and url
 define( 'APP_PATH', THEME_PATH . '/app' );
