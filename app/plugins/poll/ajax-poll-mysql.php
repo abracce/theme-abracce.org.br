@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll MySQL
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 // delete_option( 'kr_ajax_poll_installed' );

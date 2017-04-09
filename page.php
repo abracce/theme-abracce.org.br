@@ -1,9 +1,6 @@
 <?php
 /**
  * The page template file.
- *
- * @package WPKraken
- * @since 3.2.0
  */
 
 get_header(); ?>

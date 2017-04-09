@@ -1,9 +1,6 @@
 <?php
 /**
  * WPKraken include functions
- *
- * @package WPKraken
- * @since 3.0.0
  */
 
 define('KRAKEN_APP_PATH', dirname(__FILE__));

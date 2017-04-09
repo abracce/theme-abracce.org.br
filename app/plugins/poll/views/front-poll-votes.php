@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll - Frontend poll vores
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 global $wpdb;

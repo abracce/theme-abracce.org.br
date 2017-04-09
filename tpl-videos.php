@@ -1,9 +1,6 @@
 <?php
 /**
  * Template name: Vídeos
- *
- * @package WPKraken
- * @since 3.2.0
  */
 
 get_header(); ?>

@@ -1,10 +1,6 @@
 <?php
 /**
  * The init module
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 define('KR_CONTACT_PATH', dirname(__FILE__));

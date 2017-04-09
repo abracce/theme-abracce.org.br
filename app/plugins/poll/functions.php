@@ -1,10 +1,6 @@
 <?php
 /**
  * The plugin functions
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 // if (isset($_REQUEST['cmd'])) {

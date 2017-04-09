@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll Admin view
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 ?>
 <div class="wrap">

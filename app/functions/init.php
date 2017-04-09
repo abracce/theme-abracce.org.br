@@ -1,10 +1,6 @@
 <?php
 /**
  * init functions
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 /* Theme functions */

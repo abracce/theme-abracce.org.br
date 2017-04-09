@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll Shortcode
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 function kr_ajax_poll_shortcode($atts) {

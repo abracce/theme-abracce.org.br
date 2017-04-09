@@ -1,9 +1,6 @@
 <?php
 /**
  * Theme functions
- *
- * @package WPKraken
- * @since 3.2.0
  */
 
 // * WPKraken init

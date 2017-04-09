@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll Questions
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 

@@ -1,10 +1,6 @@
 <?php
 /**
  * The init plugin KR Ajax Poll
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 error_reporting( 22527 );

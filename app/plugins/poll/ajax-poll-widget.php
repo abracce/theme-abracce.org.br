@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll Widget
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 class KR_Ajax_Poll_Widget extends WP_Widget {

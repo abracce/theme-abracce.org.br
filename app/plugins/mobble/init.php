@@ -1,10 +1,6 @@
 <?php
 /**
  * The init module
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 1.1
  */
 
 define('MOBBLE_PATH', dirname(__FILE__));

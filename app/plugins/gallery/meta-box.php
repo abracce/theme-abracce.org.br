@@ -1,10 +1,6 @@
 <?php
 /**
  * Custom meta box
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 global $gallery_post_types;

@@ -1,10 +1,6 @@
 <?php
 /**
  * KR Ajax Poll Admin
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @version 1.0
  */
 
 class KR_Ajax_Poll_Admin

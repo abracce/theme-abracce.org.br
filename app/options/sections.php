@@ -1,10 +1,6 @@
 <?php
 /**
  * The option sections
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 global $prefix, $config;

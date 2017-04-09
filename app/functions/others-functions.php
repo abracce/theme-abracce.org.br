@@ -1,10 +1,6 @@
 <?php
 /**
  * Others functions
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 2.1.0
  */
 
 /**

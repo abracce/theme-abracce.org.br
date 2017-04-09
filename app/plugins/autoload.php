@@ -1,10 +1,6 @@
 <?php
 /**
  * Starter all plugins
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 global $kr_plugins;

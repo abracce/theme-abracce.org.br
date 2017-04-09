@@ -1,10 +1,6 @@
 <?php
 /**
  * The option init
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 global $KR_Options, $args, $tabs, $sections;

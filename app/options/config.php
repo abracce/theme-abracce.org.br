@@ -1,10 +1,6 @@
 <?php
 /**
  * The option config
- *
- * @author Fernando Moreira
- * @package WPKraken
- * @since 0.1
  */
 
 $prefix   = THEME_FX . "_";
