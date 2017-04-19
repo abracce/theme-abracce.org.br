@@ -5,4 +5,4 @@
 
 ## License ##
 
-It is free under the [open-source MIT license](/LICENSE).
+It is free under the [GNU GENERAL PUBLIC LICENSE](/LICENSE).
